@@ -62,26 +62,26 @@
     <!-- END nav -->
     
     <section class="home-slider owl-carousel">
-      <div class="slider-item" style="background-image:url(images/Shweta-Sawant.jpg);">
+      <div class="slider-item" style="background-image:url(images/Sydney.jpg);">
       	<div class="overlay"></div>
         <div class="container">
           <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate">
-            <h1 class="mb-4">Shweta is transforming </h1>
-            <p> American villages <br> a proud moment <br>for all of us </p>
+            <h1 class="mb-4">Australia</h1>
+            <p> Sydney<br>Sydney, capital of New South Wales<br> and one of Australia's largest cities</p>
             <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Read Now</a></p>
           </div>
         </div>
         </div>
       </div>
 
-      <div class="slider-item" style="background-image:url(images/SECOND-SLIDE.jpg);">
+      <div class="slider-item" style="background-image:url(images/canada.jpg);">
       	<div class="overlay"></div>
         <div class="container">
           <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate">
-            <h1 class="mb-4">How Akshay </h1>
-            <p> made it to Dell <br>in Ireland .</p>
+            <h1 class="mb-4">Canada </h1>
+            <p> Toronto's CN Tower<br>On the shores of Lake Ontario in Canada's biggest city is the iconic CN Tower, one of Canada's most famous landmarks.</p>
             <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Case Study</a></p>
           </div>
         </div>
@@ -159,7 +159,7 @@
 						<div class="img" style="background-image: url(images/about.jpg); border"></div>
 					</div>
 					<div class="col-md-7 wrap-about py-5 pr-md-4 ftco-animate">
-          	<h2 class="mb-4">What We Offer</h2>
+          	<h2 class="mb-4">Why Aliff</h2>
 						<p>On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word.</p>
 						<div class="row mt-5">
 							<div class="col-lg-6">
