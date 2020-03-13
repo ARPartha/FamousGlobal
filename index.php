@@ -62,27 +62,39 @@
     <!-- END nav -->
     
     <section class="home-slider owl-carousel">
-      <div class="slider-item" style="background-image:url(images/bg_1.jpg);">
+      <div class="slider-item" style="background-image:url(images/Shweta-Sawant.jpg);">
       	<div class="overlay"></div>
         <div class="container">
           <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate">
-            <h1 class="mb-4">Education Needs Complete Solution</h1>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Contact Us</a></p>
+            <h1 class="mb-4">Shweta is transforming </h1>
+            <p> American villages <br> a proud moment <br>for all of us </p>
+            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Read Now</a></p>
           </div>
         </div>
         </div>
       </div>
 
-      <div class="slider-item" style="background-image:url(images/bg_2.jpg);">
+      <div class="slider-item" style="background-image:url(images/SECOND-SLIDE.jpg);">
       	<div class="overlay"></div>
         <div class="container">
           <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate">
-            <h1 class="mb-4">University, College School Education</h1>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Contact Us</a></p>
+            <h1 class="mb-4">How Akshay </h1>
+            <p> made it to Dell <br>in Ireland .</p>
+            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Case Study</a></p>
+          </div>
+        </div>
+        </div>
+      </div>
+	  <div class="slider-item" style="background-image:url(images/COLLEGE-WALL.jpg);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
+          <div class="col-md-6 ftco-animate">
+            <h1 class="mb-4">Choose only the best through our </h1>
+            <p>Admission Guaranteed Program.</p>
+            <p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Explore</a></p>
           </div>
         </div>
         </div>
