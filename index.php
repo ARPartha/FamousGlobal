@@ -42,7 +42,7 @@
 		  </div>
     </div>
 	  <nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco-navbar-light" id="ftco-navbar">
-	    <div class="container d-flex align-items-center px-4">
+	    <div class="container d-flex align-items-center px-4"style="width:100%">
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -519,100 +519,67 @@
           </div>
 		  <div class="col-md-6 col-lg-4 ftco-animate">
             <div class="blog-entry">
-              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/sydney.jpg');">
+              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/canada.jpg');">
 								<div class="meta-date text-center p-2">
                 </div>
               </a>
               <div class="text bg-white p-4">
-                <h3 class="heading"><a href="#"><strong>Australia</strong></a></h3>
+                <h3 class="heading"><a href="#"><strong>Canada</strong></a></h3>
               </div>
             </div>
           </div>
 		  <div class="col-md-6 col-lg-4 ftco-animate">
             <div class="blog-entry">
-              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/sydney.jpg');">
+              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/russia.jpg');">
 								<div class="meta-date text-center p-2">
                 </div>
               </a>
               <div class="text bg-white p-4">
-                <h3 class="heading"><a href="#"><strong>Australia</strong></a></h3>
+                <h3 class="heading"><a href="#"><strong>Russia</strong></a></h3>
               </div>
             </div>
           </div>
 		<div class="col-md-6 col-lg-4 ftco-animate">
             <div class="blog-entry">
-              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/sydney.jpg');">
+              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/Malaysia.jpg');">
 								<div class="meta-date text-center p-2">
                 </div>
               </a>
               <div class="text bg-white p-4">
-                <h3 class="heading"><a href="#"><strong>Australia</strong></a></h3>
+                <h3 class="heading"><a href="#"><strong>Malaysia</strong></a></h3>
               </div>
             </div>
           </div>
 		  <div class="col-md-6 col-lg-4 ftco-animate">
             <div class="blog-entry">
-              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/sydney.jpg');">
+              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/UK.jpg');">
 								<div class="meta-date text-center p-2">
                 </div>
               </a>
               <div class="text bg-white p-4">
-                <h3 class="heading"><a href="#"><strong>Australia</strong></a></h3>
+                <h3 class="heading"><a href="#"><strong>UK</strong></a></h3>
               </div>
             </div>
           </div>
 		  <div class="col-md-6 col-lg-4 ftco-animate">
             <div class="blog-entry">
-              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/sydney.jpg');">
+              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/germany.jpg');">
 								<div class="meta-date text-center p-2">
                 </div>
               </a>
               <div class="text bg-white p-4">
-                <h3 class="heading"><a href="#"><strong>Australia</strong></a></h3>
+                <h3 class="heading"><a href="#"><strong>Germany</strong></a></h3>
               </div>
             </div>
           </div>
 		  <div class="col-md-6 col-lg-4 ftco-animate">
             <div class="blog-entry">
-              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/sydney.jpg');">
+              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/malta.jpg');">
 								<div class="meta-date text-center p-2">
                 </div>
               </a>
               <div class="text bg-white p-4">
-                <h3 class="heading"><a href="#"><strong>Australia</strong></a></h3>
-              </div>
-            </div>
-          </div>
-		  <div class="col-md-6 col-lg-4 ftco-animate">
-            <div class="blog-entry">
-              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/sydney.jpg');">
-								<div class="meta-date text-center p-2">
-                </div>
-              </a>
-              <div class="text bg-white p-4">
-                <h3 class="heading"><a href="#"><strong>Australia</strong></a></h3>
-              </div>
-            </div>
-          </div>
-		  <div class="col-md-6 col-lg-4 ftco-animate">
-            <div class="blog-entry">
-              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/sydney.jpg');">
-								<div class="meta-date text-center p-2">
-                </div>
-              </a>
-              <div class="text bg-white p-4">
-                <h3 class="heading"><a href="#"><strong>Australia</strong></a></h3>
-              </div>
-            </div>
-          </div>
-		  <div class="col-md-6 col-lg-4 ftco-animate">
-            <div class="blog-entry">
-              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/sydney.jpg');">
-								<div class="meta-date text-center p-2">
-                </div>
-              </a>
-              <div class="text bg-white p-4">
-                <h3 class="heading"><a href="#"><strong>Australia</strong></a></h3>
+                <h3 class="heading"><a href="#"><strong>Malta</strong></a></h3>
               </div>
             </div>
           </div>
