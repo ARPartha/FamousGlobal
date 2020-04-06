@@ -20,8 +20,8 @@
                 <li><a href="index.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Home</a></li>
                 <li><a href="about.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Start Here</a></li>
                 <li><a href="study_aboard.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Study Abroad</a></li>
-                <li><a href="teacher.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Services</a></li>
-                <li><a href="blog.php"><span class="ion-ios-arrow-round-forward mr-2"></span>About Us</a></li>
+                <li><a href="Countries.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Destination</a></li>
+                <li><a href="UG.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Compare Destination</a></li>
                 <li><a href="contact.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Contact Us</a></li>
               </ul>
             </div>

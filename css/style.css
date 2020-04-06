@@ -8756,6 +8756,14 @@ button.bg-dark:focus {
     min-height: 100vh !important;
 }
 
+.mydiv:hover {
+    color: orange;
+}
+
+.mydiv {
+    color: green;
+}
+
 .vw-100 {
     width: 100vw !important;
 }

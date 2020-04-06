@@ -12,6 +12,7 @@
 		?>
 
 			  </div>
+
 	  <nav class="navbar navbar-expand-lg navbar-dark bg-dark" id="ftco-navbar">
 	    <div class="container d-flex align-items-center px-4"style="width:100%">
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
@@ -30,9 +31,9 @@
 	      </div>
 	    </div>
 	  </nav>
-    <!-- END nav -->
-    
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_1.jpg');">
+	<!-- END nav -->
+	
+	<section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_1.jpg');">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center">
@@ -92,9 +93,11 @@
 						</div>
 							</div>
 					</div>
+					
 					<!-- Career Growth -->
 					
 					<div class="col-md-6 course ftco-animate">
+					<hr>
 						<h6 style="color: green" ><strong>Career Growth</strong></h6>
 						<!-- <div class="img" style="background-image: url(images/study_aboard.jpg);"></div> -->
 						<div class="text pt-4">
@@ -118,8 +121,10 @@
 						 
 							</div>
 					</div>
+					
 					<!-- personal growth -->
 					<div class="col-md-6 course ftco-animate">
+					<hr>
 						<h6 style="color: green" ><strong>Personal Growth</strong></h6>
 						<!-- <div class="img" style="background-image: url(images/study_aboard.jpg);"></div> -->
 						<div class="text pt-4">
@@ -144,6 +149,9 @@
 							</div>
 					</div>
 				</div>
+			</div>
+			<div style="text-align: center " >
+					<h4 ><a href="Countries.php"  class="mydiv"><strong>Our Listed Countries <i class='fas fa-angle-double-right'></i></strong></a></h4>
 			</div>
 		</section>
  

@@ -1,4 +1,7 @@
 <title>Famous Global Education | Education Consultant</title>
+<link rel = "icon" type = "image/png" href = "LOGO/logo.png">
+    <!-- For apple devices -->
+    <link rel = "apple-touch-icon" type = "image/png" href = "LOGO/logo.png"/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -6,7 +9,7 @@
 
     <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
     <link rel="stylesheet" href="css/animate.css">
-    
+    <script src='https://kit.fontawesome.com/a076d05399.js'></script>
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
     <link rel="stylesheet" href="css/magnific-popup.css">
