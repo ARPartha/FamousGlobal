@@ -19,7 +19,7 @@
               <ul class="list-unstyled">
                 <li><a href="index.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Home</a></li>
                 <li><a href="about.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Start Here</a></li>
-                <li><a href="courses.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Programs</a></li>
+                <li><a href="study_aboard.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Study Abroad</a></li>
                 <li><a href="teacher.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Services</a></li>
                 <li><a href="blog.php"><span class="ion-ios-arrow-round-forward mr-2"></span>About Us</a></li>
                 <li><a href="contact.php"><span class="ion-ios-arrow-round-forward mr-2"></span>Contact Us</a></li>
