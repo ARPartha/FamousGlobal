@@ -53,7 +53,7 @@
                   Melbourne, Perth, and Adelaide are towards the coast. While the capital Canberra is inland.
                 </p>
             <p>
-              <img src="images/sydney.jpg" alt="" class="img-fluid">
+              <img src="images/Sydney.jpg" class="img-fluid">
             </p>
             <p>Australia is known for The Sydney Opera House, The Great Barrier Reef
                  and a vast interior desert wilderness called the Outback.
